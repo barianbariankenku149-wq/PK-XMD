@@ -7,24 +7,24 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "pk~PR8Dnb5b#0tsFyMpRDYvS1A91YYFU_RSmxwbVRbdh1sAFZDTDqMQ",
       "required": true,
       "value": ""
     },
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "𝐄=𝐌𝐂²",
       "required": false,
-      "value": "PK-XMD"
+      "value": "𝐄=𝐌𝐂²"
     },
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": "😮‍💨",
       "required": false,
       "value": "."
     },
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
@@ -42,7 +42,7 @@
       "value": "false"
     },
     "AUTO_STICKER": {
-      "description": "Make it true if you want automatic sticker.",
+      "description": "true",
       "required": false,
       "value": "false"
     },
